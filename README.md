@@ -11,6 +11,7 @@ Nome | Nível | Início
 :---:|:---:|:---:
 Edição de Videos | Intermediário | 2019
 Edição de Imagens | Intermediário | 2019
+Hardware | Básico | 2020
 Html5 | Básico | 2021
 Css3 | Básico | 2021
 Markdown | Básico | 2021
